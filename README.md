@@ -4,7 +4,7 @@
 
 ###
 
-<p align=""I'm a software developer and systems engineer student. I love transform ideas in technical solutions. 💻</p>
+<p align="left">I'm a software developer and systems engineer student. I love transform ideas in technical solutions. 💻</p>
 
 ###
 
