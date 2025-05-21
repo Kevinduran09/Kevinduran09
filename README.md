@@ -1,37 +1,74 @@
-<br clear="both">
+<!--
+¡Bienvenido a mi perfil de GitHub!
+-->
 
-<h1 align="">👋Hi! i'm Kevin Durán</h1>
+<p align="center">
+  <!-- Banner personalizado aquí -->
+  <img src="BANNER_PLACEHOLDER_URL" alt="Mi banner personalizado" width="100%" />
+</p>
 
-###
+<h1 align="center">Hola, soy Kevin Durán 👋</h1>
 
-<p align="left">I'm a software developer and systems engineer student. I love transform ideas in technical solutions. 💻</p>
+<p align="center">
+  Estudiante de Ingeniería de Software y desarrollador de soluciones tecnológicas.<br>
+  Apasionado por la tecnología, la innovación y el aprendizaje continuo.
+</p>
 
-###
+---
 
-<h3 align="">Tech</h3>
+## 🚀 Sobre mí
 
-###
+- 🎓 Actualmente estudio Ingeniería de Software.
+- 💡 Me especializo en el desarrollo de soluciones tecnológicas innovadoras.
+- 🛠️ Tecnologías principales:
+  - React
+  - JavaScript (JS)
+  - Python
+  - MySQL
+  - Git
+  - Docker
 
-<div align="">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-</div>
+- 🌱 Siempre aprendiendo y explorando nuevas herramientas y metodologías.
+- 🤝 Interesado en colaborar en proyectos de impacto social y tecnológico.
 
-###
+---
 
-<br clear="both">
+## ✨ Proyecto Destacado
 
-<div align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevinduran09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kevinduran09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Kevinduran09&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+### [Volunthub](https://github.com/Kevinduran09/volunthub)
+Un proyecto dedicado a conectar voluntarios con oportunidades y causas sociales.  
+<sub>Explora el código fuente y colabora en nuevas funcionalidades.</sub>
 
-###
+---
+
+## 📫 Conecta conmigo
+
+- [LinkedIn](https://www.linkedin.com/in/kevin-durán-martínez-1b6868151)
+- [Portafolio web](https://kevin-duran.vercel.app/)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kevinduran09&show_icons=true&theme=default" alt="Estadísticas de GitHub de Kevin Durán" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevinduran09&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🧰 Herramientas y Tecnologías
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+</p>
+
+---
+
+<!-- Agrega aquí cualquier otra sección que desees, como Certificaciones, Hobbies, o Frases motivacionales -->
