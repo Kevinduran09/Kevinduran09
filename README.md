@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Banner personalizado aquí -->
-  <img src="BANNER_PLACEHOLDER_URL" alt="Mi banner personalizado" width="100%" />
+  <img src="/banner.png" alt="Mi banner personalizado" width="100%" />
 </p>
 
 <h1 align="center">Hola, soy Kevin Durán 👋</h1>
