@@ -13,7 +13,11 @@
   Estudiante de Ingeniería de Software y desarrollador de soluciones tecnológicas.<br>
   Apasionado por la tecnología, la innovación y el aprendizaje continuo.
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kevinduran09&color=000000" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Ogiwara-unu?style=social" />
+  <img src="https://img.shields.io/github/stars/Ogiwara-unu?style=social" />
+</p>
 ---
 
 ## 🚀 Sobre mí
