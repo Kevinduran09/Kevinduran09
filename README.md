@@ -7,8 +7,12 @@
   <img src="/banner.png" alt="Mi banner personalizado" width="100%" />
 </p>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> 
-  <img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white&link=https%3A%2F%2Fkevin-duran.vercel.app%2F" height="25" alt="portafolio logo"  />
+  <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://kevin-duran.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" height="25" alt="portafolio logo" />
+  </a>
 </div>
 
 
