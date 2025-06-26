@@ -6,6 +6,11 @@
   <!-- Banner personalizado aquí -->
   <img src="/banner.png" alt="Mi banner personalizado" width="100%" />
 </p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> 
+  <img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white&link=https%3A%2F%2Fkevin-duran.vercel.app%2F" height="25" alt="portafolio logo"  />
+</div>
+
 
 <h1 align="center">Hola, soy Kevin Durán 👋</h1>
 
@@ -13,11 +18,7 @@
   Estudiante de Ingeniería de Software y desarrollador de soluciones tecnológicas.<br>
   Apasionado por la tecnología, la innovación y el aprendizaje continuo.
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kevinduran09&color=000000" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Ogiwara-unu?style=social" />
-  <img src="https://img.shields.io/github/stars/Ogiwara-unu?style=social" />
-</p>
+
 ---
 
 ## 🚀 Sobre mí
