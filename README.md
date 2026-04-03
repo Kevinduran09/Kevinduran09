@@ -17,7 +17,7 @@ Bienvenido a mi perfil de GitHub
   <a href="https://www.linkedin.com/in/kevin-durán-martínez-1b6868151" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://kevin-duran.vercel.app/" target="_blank">
+  <a href="https://kevoduran.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
   </a>
 </p>
