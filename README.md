@@ -3,7 +3,7 @@ Bienvenido a mi perfil de GitHub
 -->
 
 <p align="center">
-  <img src="./banner.png" alt="Banner de Kevin Duran" width="100%" />
+  <img src="/banner.png" alt="Banner de Kevin Duran" width="100%" />
 </p>
 
 <h1 align="center">Hola, soy Kevin Duran 👋</h1>
